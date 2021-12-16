@@ -31,7 +31,7 @@ include "db_connect.php";
 <fieldset>
 
 <!-- Form Name -->
-<legend>Search for a joke</legend>
+<legend>Search for a jok</legend>
 
 <!-- Search input-->
 <div class="form-group">
